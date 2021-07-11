@@ -1,3 +1,3 @@
 # intro
 
-Let me please be proficient in git.
+Let me please be proficient in git!
